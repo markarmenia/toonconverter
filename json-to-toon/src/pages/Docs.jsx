@@ -289,7 +289,7 @@ skills: [JavaScript, Python, React]`}
                     TOON conversion into your applications, you can:
                 </p>
                 <ul>
-                    <li>Check out the <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">TOON format specification</a> on GitHub</li>
+                    <li>Check out the <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">TOON format specification</a> on GitHub</li>
                     <li>Implement TOON parsers in your preferred programming language</li>
                     <li>Contribute to or use existing TOON libraries in the ecosystem</li>
                 </ul>
@@ -302,7 +302,7 @@ skills: [JavaScript, Python, React]`}
                 </p>
                 <ul>
                     <li>Visit our <a href="/contact">Contact page</a> to reach out</li>
-                    <li>Check the <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub repository</a> for technical details</li>
+                    <li>Check the <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub repository</a> for technical details</li>
                     <li>Open an issue on GitHub for bug reports or feature requests</li>
                     <li>Review our <a href="/about">About page</a> for more information about TOON</li>
                 </ul>

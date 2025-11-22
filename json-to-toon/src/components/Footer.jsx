@@ -18,7 +18,7 @@ const Footer = () => {
                     <Link to="/disclaimer" className={location.pathname === '/disclaimer' ? 'active' : ''}>Disclaimer</Link>
                 </div>
                 <p className="copyright">
-                    © {new Date().getFullYear()} TOON Converter. Learn more about <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">TOON</a>
+                    © {new Date().getFullYear()} TOON Converter. Learn more about <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">TOON</a>
                 </p>
             </div>
         </footer>

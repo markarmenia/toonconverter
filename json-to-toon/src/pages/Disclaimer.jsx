@@ -219,7 +219,7 @@ const Disclaimer = () => {
                 </ul>
                 <p>
                     For the official TOON specification, please refer to the{' '}
-                    <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub repository</a>.
+                    <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub repository</a>.
                 </p>
             </section>
 
@@ -383,8 +383,8 @@ const Disclaimer = () => {
                     If you have questions about this Disclaimer, please:
                 </p>
                 <ul>
-                    <li>Email: support@toon-converter.com</li>
-                    <li>GitHub: <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">toon-format/toon</a></li>
+                    <li>Email: info@convertertoon.com</li>
+                    <li>GitHub: <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">markarmenia/toonconverter</a></li>
                     <li>Contact Page: <a href="/contact">Contact Us</a></li>
                 </ul>
                 <p>

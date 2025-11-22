@@ -94,7 +94,7 @@ const Terms = () => {
                 <h3>Open Source License</h3>
                 <p>
                     TOON Converter is open-source software. The source code is available on{' '}
-                    <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub</a> and
+                    <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub</a> and
                     is licensed under the terms specified in the repository. You are free to:
                 </p>
                 <ul>
@@ -333,7 +333,7 @@ const Terms = () => {
                     If you have any concerns or disputes about the service, we encourage you to:
                 </p>
                 <ul>
-                    <li>Contact us first at support@toon-converter.com to resolve the issue informally</li>
+                    <li>Contact us first at info@convertertoon.com to resolve the issue informally</li>
                     <li>Provide a clear description of the problem</li>
                     <li>Give us a reasonable opportunity to address your concerns</li>
                 </ul>
@@ -373,8 +373,8 @@ const Terms = () => {
                     If you have questions about these Terms of Service, please contact us:
                 </p>
                 <ul>
-                    <li>Email: support@toon-converter.com</li>
-                    <li>GitHub: <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">toon-format/toon</a></li>
+                    <li>Email: info@convertertoon.com</li>
+                    <li>GitHub: <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">markarmenia/toonconverter</a></li>
                     <li>Contact Page: <a href="/contact">Contact Us</a></li>
                 </ul>
             </section>

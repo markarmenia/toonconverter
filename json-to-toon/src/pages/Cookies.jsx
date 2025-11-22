@@ -294,10 +294,10 @@ const Cookies = () => {
                     If you have questions about our use of cookies or local storage, please:
                 </p>
                 <ul>
-                    <li>Email us at: support@toon-converter.com</li>
+                    <li>Email us at: info@convertertoon.com</li>
                     <li>Visit our <a href="/contact">Contact page</a></li>
                     <li>Check our <a href="/privacy">Privacy Policy</a> for more information</li>
-                    <li>Review our <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">open-source code</a></li>
+                    <li>Review our <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">open-source code</a></li>
                 </ul>
             </section>
 

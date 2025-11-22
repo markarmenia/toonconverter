@@ -23,7 +23,7 @@ const Contact = () => {
                             For general inquiries, technical support, or feature requests:
                         </p>
                         <p style={{ fontSize: '1.1rem', color: 'var(--accent-color)' }}>
-                            <strong>Email:</strong> <a href="mailto:support@toon-converter.com" style={{ color: 'var(--accent-color)', textDecoration: 'none' }}>support@toon-converter.com</a>
+                            <strong>Email:</strong> <a href="mailto:info@convertertoon.com" style={{ color: 'var(--accent-color)', textDecoration: 'none' }}>info@convertertoon.com</a>
                         </p>
                         <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
                             We typically respond within 24-48 hours during business days.
@@ -36,7 +36,7 @@ const Contact = () => {
                             For technical issues, bug reports, and feature requests, please visit our GitHub repository:
                         </p>
                         <p style={{ fontSize: '1.1rem' }}>
-                            <strong>GitHub:</strong> <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer" style={{ color: 'var(--accent-color)', textDecoration: 'none' }}>toon-format/toon</a>
+                            <strong>GitHub:</strong> <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer" style={{ color: 'var(--accent-color)', textDecoration: 'none' }}>markarmenia/toonconverter</a>
                         </p>
                         <p>
                             You can:
@@ -170,7 +170,7 @@ const Contact = () => {
                 <ul>
                     <li>Review our <a href="/docs">Documentation</a> for common questions and solutions</li>
                     <li>Check the <a href="/about">About page</a> for information about TOON format</li>
-                    <li>Search existing <a href="https://github.com/toon-format/toon/issues" target="_blank" rel="noreferrer">GitHub issues</a> to see if your question has been addressed</li>
+                    <li>Search existing <a href="https://github.com/markarmenia/toonconverter/issues" target="_blank" rel="noreferrer">GitHub issues</a> to see if your question has been addressed</li>
                     <li>Try different browsers if you're experiencing technical issues</li>
                     <li>Clear your browser cache and cookies</li>
                 </ul>

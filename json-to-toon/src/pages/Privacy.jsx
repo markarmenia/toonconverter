@@ -53,7 +53,7 @@ const Privacy = () => {
                     TOON Converter is open source, which means:
                 </p>
                 <ul>
-                    <li>You can review our entire codebase on <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub</a></li>
+                    <li>You can review our entire codebase on <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub</a></li>
                     <li>Security researchers can audit our code for privacy and security</li>
                     <li>The community can verify that we don't collect or transmit data</li>
                     <li>You can self-host the tool if you prefer</li>
@@ -195,7 +195,7 @@ const Privacy = () => {
             <section>
                 <h2>Contact for Email Support</h2>
                 <p>
-                    If you contact us via email (support@toon-converter.com), we will collect:
+                    If you contact us via email (info@convertertoon.com), we will collect:
                 </p>
                 <ul>
                     <li>Your email address</li>
@@ -273,8 +273,8 @@ const Privacy = () => {
                     handled, please:
                 </p>
                 <ul>
-                    <li>Email us at: support@toon-converter.com</li>
-                    <li>Open an issue on our <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub repository</a></li>
+                    <li>Email us at: info@convertertoon.com</li>
+                    <li>Open an issue on our <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub repository</a></li>
                     <li>Visit our <a href="/contact">Contact page</a> for more ways to reach us</li>
                 </ul>
             </section>

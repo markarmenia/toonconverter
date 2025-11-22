@@ -101,7 +101,7 @@ const About = () => {
                     and community-driven development. You can:
                 </p>
                 <ul>
-                    <li>View and contribute to the source code on <a href="https://github.com/toon-format/toon" target="_blank" rel="noreferrer">GitHub</a></li>
+                    <li>View and contribute to the source code on <a href="https://github.com/markarmenia/toonconverter" target="_blank" rel="noreferrer">GitHub</a></li>
                     <li>Report bugs or request features through GitHub Issues</li>
                     <li>Participate in discussions about the TOON format specification</li>
                     <li>Fork and customize the converter for your specific needs</li>
