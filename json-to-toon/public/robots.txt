@@ -1,0 +1,59 @@
+# robots.txt for TOON Converter
+# This file tells search engines and AI crawlers (like GPT, Claude, Gemini) how to index our site
+
+# Allow all bots to crawl the entire site
+User-agent: *
+Allow: /
+
+# Specific instructions for AI/LLM crawlers
+# OpenAI GPTBot
+User-agent: GPTBot
+Allow: /
+
+# Anthropic ClaudeBot
+User-agent: anthropic-ai
+Allow: /
+
+# Google Gemini and Bard
+User-agent: Google-Extended
+Allow: /
+
+# Common AI/ML bots
+User-agent: CCBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Standard search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://toon-converter.com/sitemap.xml
+
+# Crawl-delay to be respectful of server resources
+Crawl-delay: 1
+
+# Disallow nothing - we want maximum visibility
+# No Disallow directives means everything is crawlable
+
+# Important pages for indexing (hints for crawlers)
+# These are the key pages we want indexed:
+# /                 - Main converter page
+# /about            - About TOON Converter
+# /docs             - Documentation
+# /contact          - Contact information
+# /privacy          - Privacy Policy
+# /cookies          - Cookie Policy
+# /terms            - Terms of Service
+# /disclaimer       - Disclaimer

@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #1a1a1a;
+    padding: 1rem;
+    border-bottom: 1px solid #333;
+    margin-bottom: 2rem;
+}
+
+.nav-links {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-link {
+    color: #888;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+    font-size: 0.95rem;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.nav-link.active {
+    color: #646cff;
+}
