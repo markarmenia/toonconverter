@@ -501,15 +501,15 @@ const Converter = () => {
             <div className="editor-actions">
               <button className="action-btn" onClick={loadExample} title="Load Example">
                 <Lightbulb size={14} style={{ marginRight: '4px' }} />
-                Example
+                <span className="btn-text">Example</span>
               </button>
               <button className="action-btn" onClick={handleFileUpload} title="Load File">
                 <FileText size={14} style={{ marginRight: '4px' }} />
-                Load File
+                <span className="btn-text">Load File</span>
               </button>
               <button className="action-btn" onClick={clearAll} title="Clear All">
                 <Trash2 size={14} style={{ marginRight: '4px' }} />
-                Clear All
+                <span className="btn-text">Clear All</span>
               </button>
               <button
                 className="action-btn"
@@ -570,7 +570,7 @@ const Converter = () => {
               </div>
               <button className="action-btn" onClick={handleDownload} disabled={!toonOutput}>
                 <Download size={14} style={{ marginRight: '4px' }} />
-                Download
+                <span className="btn-text">Download</span>
               </button>
               <button
                 className="action-btn"
