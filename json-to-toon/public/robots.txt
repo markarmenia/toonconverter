@@ -39,7 +39,7 @@ User-agent: DuckDuckBot
 Allow: /
 
 # Sitemap location
-Sitemap: https://toon-converter.com/sitemap.xml
+Sitemap: https://convertertoon.com/sitemap.xml
 
 # Crawl-delay to be respectful of server resources
 Crawl-delay: 1
