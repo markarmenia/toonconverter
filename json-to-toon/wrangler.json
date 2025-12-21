@@ -2,6 +2,7 @@
     "name": "toonconverter",
     "compatibility_date": "2024-11-22",
     "assets": {
-        "directory": "./dist"
+        "directory": "./dist",
+        "not_found_handling": "single_page_application"
     }
 }
